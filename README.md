@@ -44,7 +44,7 @@ pip install ultralytics deep-sort-realtime opencv-python-headless
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Vehicle-Speed-Tracking.git
+git clone https://github.com/NeginHz/Vehicle-Detection-Tracking-and-Speed-Estimation
 cd Vehicle-Speed-Tracking
 ```
 
