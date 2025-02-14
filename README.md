@@ -1,4 +1,3 @@
-# Vehicle-Detection-Tracking-and-Speed-Estimation
 # Vehicle Detection, Tracking, and Speed Estimation
 
 ##  Project Overview
